@@ -17,7 +17,7 @@ typedef struct
 int main(int argc, char **argv){
 	
 	if(argc < 2){
-		printf ("\nusage: syslibtrace_extract syslibtable.bin \n");
+		printf ("\nusage: nid_extract syslibtable.bin \n");
 		return -1;
 	}
 	
